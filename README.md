@@ -27,5 +27,4 @@ Deep learning provides a robust solution for high-quality style transfer.
 Scope of the study
 Demonstrates the effectiveness of CNNs for style transfer.
 Applicable to artistic image generation, content-aware image processing, and automated creative applications.
-![image](https://github.com/user-attachments/assets/82705bc2-9c04-4cda-a97a-91da258f9f20)
 
