@@ -29,7 +29,6 @@ loader = transforms.Compose([
     ])       # Converting PIL image to a tensor.
 
 
-# Loading the images -->
 # PIL Images range from 0 to 255 but when transformed to tensors, their range becomes 0 to 1.
 # Both the images need to be resized to have the same dimensions as each other.
 # NN from tensor libraries are trained with values ranging from 0 to 1. 
