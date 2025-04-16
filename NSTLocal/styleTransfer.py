@@ -3,7 +3,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim # For efficient gradient descent.
 
-# To load and display images.
 from PIL import Image
 import matplotlib.pyplot as plt
 
