@@ -45,7 +45,6 @@ def image_loader(image_name):
 style_img = image_loader("./images/starry_night.jpeg")
 content_img = image_loader("./images/sunset_skyline.jpg")
 
-# This line is used for debugging.
 # If the dimensions of the style and content images are not same, it will throw an AssertionError.
 # The backslash at the end is a line continuation character. It allows breaking a long line of code for better readability.
 assert style_img.size() == content_img.size(), \
