@@ -49,13 +49,6 @@ The core challenge lies in **effectively separating semantic content from artist
 
 ---
 
-## 📌 Output Example
-
-| 📸 Content Image | 🎨 Style Image | ✨ Stylized Output |
-|:---------------:|:--------------|:----------------|
-| ![Content](content_image.png) | ![Style](style_image.png) | ![Output](output_image.png) |
-
----
 
 ## 📬 Contact  
 
