@@ -54,7 +54,7 @@ The core challenge lies in **effectively separating semantic content from artist
 
 For any queries or contributions, feel free to reach out!
 
-📧 **Siddharth Agarwal** | [📱 LinkedIn](https://www.linkedin.com) 
+📧 **Siddharth Agarwal** | [📱 LinkedIn](https://www.linkedin.com/in/siddharth-agarwal-tech/)
 
 ---
 
